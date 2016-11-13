@@ -1,7 +1,7 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Austin’s Blog
-email: 977580350@qq.com
+email: austin.cq@foxmail.com
 brand: Austin huang
 headline: 前端探索者
 description: > # this means to ignore newlines until "baseurl:"
