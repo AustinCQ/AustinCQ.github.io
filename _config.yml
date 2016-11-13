@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: my blog
+title: Austin’s Blog
 email: 977580350@qq.com
 brand: Austin huang
 headline: 刚成立不久，欢迎指点！
