@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://huangdaxing.top" # the base hostname & protocol for your site
-copyright: |Copyright © 2016 huangdaxing. All rights reserved. | 保留所有权利。| 
+copyright: huangdaxing.top| Copyright © 2016 huangdaxing. All rights reserved. | 保留所有权利。| 
 
 # Build settings
 markdown: kramdown
