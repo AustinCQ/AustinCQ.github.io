@@ -4,6 +4,9 @@
     <title>my blog</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Austin">
+     {% if site.meta_author %}
+    <meta name="author" content="Austin">
+    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link rel="stylesheet" href="./web-dist/css/main.min.css">
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"
