@@ -3,7 +3,7 @@
 title: my blog
 email: 977580350@qq.com
 brand: Austin huang
-headline:刚成立不久，欢迎指点！
+headline: 刚成立不久，欢迎指点！
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
