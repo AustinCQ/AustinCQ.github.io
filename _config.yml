@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: Austin’s Blog
 email: austin.cq@foxmail.com
-brand: Austin huang
+brand: Austin
 headline: 前端探索者
 description: > # this means to ignore newlines until "baseurl:"
   New Site
@@ -12,9 +12,6 @@ copyright: huangdaxing.top| Copyright © 2016 huangdaxing. All rights reserved. 
 
 # Build settings
 markdown: kramdown
-
-# Account ids
-snapwidget: 247552
 
 # Contacts
 email: austin.cq@foxmail.com
