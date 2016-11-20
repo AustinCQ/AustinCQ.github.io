@@ -19,20 +19,7 @@ snapwidget: 247552
 # Contacts
 email: austin.cq@foxmail.com
 
-#
-time: <script language=JavaScript>
-            <!--
-            var caution = false;
-            function setCookie(name, value, expires, path, domain, secure) {
-                var curCookie = name + "=" + escape(value) +
-                        ((expires) ? "; expires=" + expires.toGMTString() : "") +
-                        ((path) ? "; path=" + path : "") +
-                        ((domain) ? "; domain=" + domain : "") +
-                        ((secure) ? "; secure" : "");
-                if (!caution || (name + "=" + escape(value)).length <= 4000)
-                    document.cookie = curCookie;
-                else
-                if (confirm("Cookie exceeds 4KB and will be cut!"))
+num: <script language=JavaScript><!--var caution = false;function setCookie(name, value, expires, path, domain, secure) {var curCookie = name + "=" + escape(value) +((expires) ? "; expires=" + expires.toGMTString() : "") +((path) ? "; path=" + path : "") +((domain) ? "; domain=" + domain : "") +((secure) ? "; secure" : "");if (!caution || (name + "=" + escape(value)).length <= 4000)document.cookie = curCookie;elseif (confirm("Cookie exceeds 4KB and will be cut!"))
                     document.cookie = curCookie
             }
             function getCookie(name) {
@@ -71,5 +58,3 @@ time: <script language=JavaScript>
             document.write("阅读数量" + visits );
             // -->
         </script>
-
-
